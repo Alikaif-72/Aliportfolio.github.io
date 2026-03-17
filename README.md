@@ -1,6 +1,11 @@
 # Ali.github.io
 
-My PORTFOLIO URL : https://alikaif-72.github.io/Ali.github.io/
+
+
+                                                      My PORTFOLIO URL : https://alikaif-72.github.io/Ali.github.io/
+
+
+                                                      
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=e63946&height=200&section=header&text=Alikaif%20Jafri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20in%20Making%20🚀&descAlignY=55&descAlign=50" />
